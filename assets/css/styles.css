@@ -1964,7 +1964,7 @@ form textarea {
 
   #menu-icon {
     display: initial;
-    color: var(--text-color);
+    color: black;
   }
 
   header .navbar {
